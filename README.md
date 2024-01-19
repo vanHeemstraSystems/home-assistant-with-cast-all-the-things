@@ -3,6 +3,8 @@ home-assistant-with-cast-all-the-things
 
 Based on "Using Google Displays and Home Assistant with C.A.T.T. (Cast All The Things)" at https://www.welcometothefuture.one/videos/catt-and-home-assistant
 
+Based on "Use Google Displays with Home Assistant 2022 Update" at https://www.youtube.com/watch?v=RBEz9nhFuG0
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
