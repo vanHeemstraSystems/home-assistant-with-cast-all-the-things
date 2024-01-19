@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-with-cast-all-the-things
+# Home Assistant with Cast All The Things (C.A.T.T.)
 
-Based on "ABC" at https://www.abc.com/
+Based on "ABC" at https://www.welcometothefuture.one/videos/catt-and-home-assistant
 
 ## 100 - Introduction
 
