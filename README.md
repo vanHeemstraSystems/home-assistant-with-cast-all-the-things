@@ -5,7 +5,7 @@ Based on "Using Google Displays and Home Assistant with C.A.T.T. (Cast All The T
 
 Based on "Use Google Displays with Home Assistant 2022 Update" at https://www.youtube.com/watch?v=RBEz9nhFuG0
 
-**WARNING**: Make sure to watch both videos in above list as the *2022 Update* provides valuable information of the outdated first video!
+**WARNING**: Make sure to watch both videos in above list as the *2022 Update* provides valuable information about the outdated first video!
 
 ## 100 - Introduction
 
